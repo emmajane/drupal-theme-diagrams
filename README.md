@@ -8,6 +8,9 @@ presentation here:
 The slide deck for the hand out can be viewed here:
   https://speakerdeck.com/u/emmajane/p/evaluating-base-themes
 
+The diagrams use the free font, Comfortaa. You can download a 
+copy from: http://www.dafont.com/comfortaa.font
+
 Lots of thanks goes to Donna Benjamin (http://kattekrab.net/) 
 for her help with Inkscape.
 
